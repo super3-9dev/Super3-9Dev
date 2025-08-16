@@ -258,3 +258,15 @@
 <!-- <p align="center"><img src="https://raw.githubusercontent.com/devafortun/devafortun/output/github-contribution-grid-snake.svg#gh-light-mode-only" /></p> -->
 
 ![Snake gif](https://github.com/devafortun/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.svg)
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="#">
+  <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api?username=Mujeeb4582&show_icons=true&theme=cobalt&layout=compact" />
+</a>
+
+<a href="#">
+  <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mujeeb4582&langs_count=8&theme=cobalt&layout=compact" />
+</a>
