@@ -22,8 +22,8 @@
 
 ### 🌐 Connect with me:
 
-- [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/Minato_95) - @super3dev9star
-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/popularity_star) - popularity_star
+<!-- - [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/Minato_95) - @super3dev9star-->
+<!-- - [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/popularity_star) - popularity_star -->
 <!-- - [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=flat&logo=skype&logoColor=white)](skype:live:.cid.16dac497b946b44b?chat) - live:.cid.16dac497b946b44b -->
 <!-- - [![Email](https://img.shields.io/badge/Email-mailto%Phoenixryan1111%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:Phoenixryan1111@gmail.com) - Phoenix -->
 
